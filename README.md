@@ -2,7 +2,7 @@
 
 <h3>👋 Introduction</h3>
 
-Hello, I'm hwa-yeon, studying Back-end.
+Hello, I'm hwa-yeon, studying back-end.
 
 <h3>⚡ Skill</h3>
 
