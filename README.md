@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Introduction
+안녕하세요! 백엔드 개발자를 꿈꾸는 이화연입니다
+
+### ⚡ Skill
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776ABC?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6C?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33FC?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysqlt&logoColor=white"/>
 
 <!--
 **hwa-yeon/hwa-yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
