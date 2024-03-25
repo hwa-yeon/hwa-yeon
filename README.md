@@ -2,7 +2,7 @@
 
 <h3>👋 Introduction</h3>
 
-안녕하세요! 백엔드 개발자를 꿈꾸는 이화연입니다.
+Hello, I'm hwa-yeon, studying Back-end.
 
 <h3>⚡ Skill</h3>
 
