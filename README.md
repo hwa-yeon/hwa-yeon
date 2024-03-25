@@ -1,3 +1,5 @@
+<div align=center>
+
 ### 👋 Introduction
 
 안녕하세요! 백엔드 개발자를 꿈꾸는 이화연입니다
@@ -22,3 +24,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwa-yeon&langs_count=8)](https://github.com/hea-yeon/github-readme-stats)
+
+</div>
